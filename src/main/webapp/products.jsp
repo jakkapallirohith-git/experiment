@@ -182,6 +182,7 @@
             <p class="category">Electronics</p>
 
             <p class="price">₹24,999</p>
+            <p class="quantity">400</p>
 
             <button class="buy-btn">
                 Buy Now
@@ -202,7 +203,7 @@
             <p class="category">Electronics</p>
 
             <p class="price">₹59,999</p>
-
+            <p class="quantity>500</p>
             <button class="buy-btn">
                 Buy Now
             </button>
