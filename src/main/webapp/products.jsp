@@ -182,6 +182,7 @@
             <p class="category">Electronics</p>
 
             <p class="price">₹24,999</p>
+            <p class="available">"true"</p>
             <p class="quantity">400</p>
 
             <button class="buy-btn">
