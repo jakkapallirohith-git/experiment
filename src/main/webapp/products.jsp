@@ -204,6 +204,7 @@
 
             <p class="price">₹59,999</p>
             <p class="quantity>500</p>
+            <p class="availability">"true"</p>
             <button class="buy-btn">
                 Buy Now
             </button>
